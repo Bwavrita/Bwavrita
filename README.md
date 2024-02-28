@@ -1,5 +1,5 @@
 <h1>Olá!!</h1>
-Meu nome é Bernard tenho 18 anos e atualmente estou graduando em Ciência da computação
+Meu nome é Bernard tenho 19 anos e atualmente estou graduando em Ciência da computação
 <body>
   <p>😶Universitário da Universidade de Caxias do Sul (Ucs)</p>
   <p>😢Estudando Java</p>
