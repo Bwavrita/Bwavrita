@@ -1,11 +1,11 @@
-<h1>Olá!!</h1>
-Meu nome é Bernard tenho 19 anos e atualmente estou graduando em Ciência da computação
+<h1>Hello!!</h1>
+My name is Bernard, I am 19 years old, and I am pursuing a degree in Computer Science at UCS.
 <body>
-  <p>😶Universitário da Universidade de Caxias do Sul (Ucs)</p>
-  <p>👌Estudando Java</p>
-  <p>👍Procurando emprego/estágio</p>
+    <li>🫡Studying at UCS in the 4th semester.</li>
+    <li>😶‍🌫️Backend</li>
+    <li>👌Constantly improving</li>
   <h2>Bio</h2>
- Olá! Sou um adorador do mundo tecnológico. Comecei minha jornada de aprendizagem em linguagem de programação recentemente, aos 18 anos. Busco melhorar a cada dia e não posso negar que estou à procura do meu primeiro emprego na área. Gostaria de algumas dicas para me orientar nesse processo.
+Hello, my name is Bernard. I am 19 years old and passionate about coding. I enjoy working with programming languages like Java and C. Technology fascinates me, and I have a deep love for computers. I started my journey as a programmer a year ago, and since then, I have been continuously improving myself and working on my own projects. I am currently looking for employment opportunities and would appreciate any tips.
 </body>
 
 
@@ -21,6 +21,5 @@ Meu nome é Bernard tenho 19 anos e atualmente estou graduando em Ciência da co
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a"(https://www.linkedin.com/in/bernard-wavrita-b9a747257/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
 
 
