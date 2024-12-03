@@ -1,11 +1,12 @@
-<h1>Hello!!</h1>
+ <h1>Hello!!</h1>
 My name is Bernard, I am 19 years old, and I am pursuing a degree in Computer Science at UCS.
 <body>
     <li>🫡Studying at UCS in the 4th semester.</li>
     <li>😶‍🌫️Backend</li>
     <li>👌Constantly improving</li>
   <h2>Bio</h2>
-Hello, my name is Bernard. I am 19 years old and passionate about coding. I enjoy working with programming languages like Java and C. Technology fascinates me, and I have a deep love for computers. I started my journey as a programmer a year ago, and since then, I have been continuously improving myself and working on my own projects. I am currently looking for employment opportunities and would appreciate any tips.
+Hello, my name is Bernard, I’m 19 years old, and I am passionate about programming. I am currently heading into my 5th semester of college and work as a systems analyst intern at Grendene. I have experience with programming languages like Java and C, and I’m always seeking new technologies to learn and apply in my work and personal projects.
+I started my programming journey about a year ago, and since then, I’ve been dedicated to improving my skills and expanding my technical knowledge. Technology has always been a big passion of mine, and I believe it has a transformative impact on the world. I’m currently looking for new job opportunities to continue growing professionally..
 </body>
 
 
