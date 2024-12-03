@@ -1,7 +1,7 @@
  <h1>Hello!!</h1>
 My name is Bernard, I am 19 years old, and I am pursuing a degree in Computer Science at UCS.
 <body>
-    <li>🫡Studying at UCS in the 4th semester.</li>
+    <li>🫡Studying at UCS in the 5th semester.</li>
     <li>😶‍🌫️Backend</li>
     <li>👌Constantly improving</li>
   <h2>Bio</h2>
